@@ -4,6 +4,10 @@
 ### 使用技術
 - Oracle SQL, JAVA, MyBaits, Spring, Tomcat, JavaScript, jQuery
 
+	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khrcodk@gmail.com)](mailto:khrcodk@gmail.com)
+  
+  
+  
 <!--
 **heerokim/heerokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

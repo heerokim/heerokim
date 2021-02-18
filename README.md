@@ -1,4 +1,8 @@
-### Hi there 👋
+### Smart Cloud IT Master 40期
+- ウェブ開発者課程修了
+
+### 使用技術
+- Oracle SQL, JAVA, MyBaits, Spring, Tomcat, JavaScript, jQuery
 
 <!--
 **heerokim/heerokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

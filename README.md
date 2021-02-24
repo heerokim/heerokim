@@ -1,5 +1,8 @@
+## こんにちは、<br>私はキム·ヒロと申します。
+- 現在Smart Cloud IT Master 40期修了予定で、<br> ウェブエンジニアとして全般的なフロントエンド、バックエンドの勉強し、情熱を持ってプロジェクトに参加しています。
+
 ## Smart Cloud IT Master 40期
-- ウェブ開発者課程修了
+- ウェブエンジニア課程修了
 
 ## 使用技術
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <br>

@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/MyBaits-A8B9CC?style=flat-square&logo=MyBaits&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/> 
 	
+# [Portfolio](https://github.com/heerokim/Portfolio.git) 
+このページは私の個人プロジェクトを選んで紹介します。
+	
+	
 ## Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khrcodk@gmail.com)](mailto:khrcodk@gmail.com)
   
